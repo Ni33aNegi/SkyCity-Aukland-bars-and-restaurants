@@ -8,7 +8,7 @@ st.set_page_config(page_title="Skycity Aukland Restaurants & Bars", layout="wide
 
 st.header(" _ ")
 st.header("This is SkyCity Aukland restaurants & bars dataset ")
-df=pd.read_csv("Skycity Aukland restaurants & bars.csv")
+df=pd.read_csv("Skycity aukland restaurants & bars.csv")
 df
 
 # ─── Custom CSS ───────────────────────────────────────────────────────────────
